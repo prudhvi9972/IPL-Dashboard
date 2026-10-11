@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  /* Team colors */
+  --team-1: #a4261d;
+  --team-2: #5755a7;
+  --team-3: #d91c1f;
+  --team-4: #f7db00;
+  --team-5: #da237b;
+  --team-6: #13418b;
+  --team-7: #f26d22;
+  --team-8: #4f5db0;
+  --team-gradient: #1e293b;
+  --team-card-bg: #ffffff33;
+  --match-card-bg: #0f172a;
+
+  /* Border Colors */
+  --border-1: #ffffff;
+  --border-2: #475569;
+
+  /* Text Colors */
+  --primary-text: #ffffff;
+  --won-text: #18ed66;
+  --lost-text: #e31a1a;
+}
